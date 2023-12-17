@@ -4,7 +4,7 @@
 
     ```bash
     git clone https://github.com/ARGEN03/TASK15
-    cd yourapp
+    cd TASK15
     ```
 
 2. Создайте и активируйте виртуальное окружение:
