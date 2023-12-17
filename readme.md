@@ -3,7 +3,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/yourapp.git
+    git clone https://github.com/ARGEN03/TASK15
     cd yourapp
     ```
 
